@@ -1,5 +1,6 @@
 # 💫 About Me:
-## Hi, I'm Patrik! 👋<br><br>📍 From Zagreb, Croatia. <br><br>👩🏻‍💻 Software Engineer sharing about my journey and learnings in tech. <br><br>👩🏻‍🎓 I’m currently studying [Computer Science](https://www.foi.unizg.hr/en/about-us/usp/ips) at the Faculty of Organization and Informatics, Varaždin. <br><br>📫 How to reach me: patrik.klaric03@gmailcom <br><br>💭 Currently learning about Android development. <br>
+## Hi, I'm Patrik! 👋<br>
+<br>📍 From Zagreb, Croatia. <br><br>👩🏻‍💻 Software Engineer sharing about my journey and learnings in tech. <br><br>👩🏻‍🎓 I’m currently studying [Computer Science](https://www.foi.unizg.hr/en/about-us/usp/ips) at the Faculty of Organization and Informatics, Varaždin. <br><br>📫 How to reach me: [patrik.klaric03@gmail.com](mailto:patrik.klaric03@gmail.com) <br><br>💭 Currently learning about Android development. <br>
 
 
 # 💻 Tech Stack:
